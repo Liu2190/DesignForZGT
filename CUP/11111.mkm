@@ -1,0 +1,16 @@
+<MKM version="2.0" imageFileUrl="file:///Users/dbuyer/Desktop/downloads/DesignForZGT/CUP/11111.psd">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="116" x="430" y="1"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="3315711" offsetX="25" offsetY="10" x="24" y="436"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="3315711" offsetX="25" offsetY="10" x="1" y="440"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="3315711" offsetX="25" offsetY="10" x="3" y="448"/>
+    <LengthMark direction="3" color="16711680" length="174" x="333" y="408"/>
+    <LengthMark direction="3" color="16711680" length="175" x="176" y="408"/>
+    <LengthMark direction="12" color="16711680" length="175" x="235" y="538"/>
+    <LengthMark direction="12" color="16711680" length="46" x="1" y="526"/>
+    <LengthMark direction="12" color="16711680" length="190" x="236" y="560"/>
+    <LengthMark direction="3" color="16711680" length="200" x="477" y="408"/>
+    <LengthMark direction="3" color="16711680" length="407" x="476" y="1"/>
+    <LengthMark direction="3" color="16711680" length="126" x="121" y="133"/>
+  </Marks>
+</MKM>
